@@ -41,7 +41,7 @@ This dashboard includes:
 
 ## Dashboard Preview
 
-![Dashboard](https://github.com/user-attachments/assets/0c0b2318-f3ef-4e87-93f8-a096c71482cf)
+![Dashboard](https://github.com/user-attachments/assets/9993701a-1097-4508-8d1d-89ac9e482596)
 
 
 
